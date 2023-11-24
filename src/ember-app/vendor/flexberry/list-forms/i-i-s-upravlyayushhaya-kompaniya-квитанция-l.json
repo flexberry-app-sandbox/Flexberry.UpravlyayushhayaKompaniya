@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-upravlyayushhaya-kompaniya-квитанция-e",
+  "editForm": "i-i-s-upravlyayushhaya-kompaniya-квитанция-e",
+  "external": false,
+  "caption": "Квитанция",
+  "name": "IISUpravlyayushhaya_kompaniyaКвитанцияL",
+  "className": "КвитанцияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-квитанция",
+      "modelProjection": "КвитанцияL"
+    }
+  ]
+}

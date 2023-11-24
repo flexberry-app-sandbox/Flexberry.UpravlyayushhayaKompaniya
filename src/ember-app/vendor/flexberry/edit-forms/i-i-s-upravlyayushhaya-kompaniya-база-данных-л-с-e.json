@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "База данных ЛС",
+  "name": "IISUpravlyayushhaya_kompaniyaБазаДанныхЛСE",
+  "className": "БазаДанныхЛСE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-база-данных-л-с",
+      "modelProjection": "БазаДанныхЛСE"
+    }
+  ]
+}

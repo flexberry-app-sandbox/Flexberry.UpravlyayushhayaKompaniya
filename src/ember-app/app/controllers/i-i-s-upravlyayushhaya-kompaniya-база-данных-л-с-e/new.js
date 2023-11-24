@@ -1,0 +1,4 @@
+import IISUpravlyayushhaya_kompaniyaБазаДанныхЛСEController from '../i-i-s-upravlyayushhaya-kompaniya-база-данных-л-с-e';
+
+var IISUpravlyayushhaya_kompaniyaБазаДанныхЛСENewController = IISUpravlyayushhaya_kompaniyaБазаДанныхЛСEController;
+export default IISUpravlyayushhaya_kompaniyaБазаДанныхЛСENewController;

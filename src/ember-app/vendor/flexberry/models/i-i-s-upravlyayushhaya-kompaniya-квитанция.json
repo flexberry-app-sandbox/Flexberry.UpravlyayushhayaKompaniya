@@ -1,0 +1,166 @@
+﻿{
+  "name": "IISUpravlyayushhaya_kompaniyaКвитанция",
+  "modelName": "i-i-s-upravlyayushhaya-kompaniya-квитанция",
+  "className": "Квитанция",
+  "nameSpace": "IIS.Upravlyayushhaya_kompaniya",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "iDжильца",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "iDорганизация",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "iDсотрудника",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "расчетныйПериод",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "суммаКОплате",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "жилец",
+      "relatedTo": "i-i-s-upravlyayushhaya-kompaniya-жилец",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "организация",
+      "relatedTo": "i-i-s-upravlyayushhaya-kompaniya-организация",
+      "inverse": null
+    },
+    {
+      "polymorphic": false,
+      "presence": true,
+      "name": "сотрудники",
+      "relatedTo": "i-i-s-upravlyayushhaya-kompaniya-сотрудники",
+      "inverse": null
+    }
+  ],
+  "hasMany": [
+    {
+      "name": "тЧквитанции",
+      "relatedTo": "i-i-s-upravlyayushhaya-kompaniya-т-чквитанции",
+      "inverse": "квитанция"
+    }
+  ],
+  "projections": [
+    {
+      "name": "КвитанцияE",
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-квитанция",
+      "attrs": [
+        {
+          "name": "iDжильца",
+          "caption": "I dжильца",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "iDорганизация",
+          "caption": "I dорганизация",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "расчетныйПериод",
+          "caption": "Расчетный период",
+          "hidden": false,
+          "index": 2
+        },
+        {
+          "name": "суммаКОплате",
+          "caption": "Сумма к оплате",
+          "hidden": false,
+          "index": 3
+        },
+        {
+          "name": "iDсотрудника",
+          "caption": "I dсотрудника",
+          "hidden": false,
+          "index": 4
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "КвитанцияL",
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-квитанция",
+      "attrs": [
+        {
+          "name": "iDжильца",
+          "caption": "I dжильца",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "iDорганизация",
+          "caption": "I dорганизация",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "расчетныйПериод",
+          "caption": "Расчетный период",
+          "hidden": false,
+          "index": 2
+        },
+        {
+          "name": "суммаКОплате",
+          "caption": "Сумма к оплате",
+          "hidden": false,
+          "index": 3
+        },
+        {
+          "name": "iDсотрудника",
+          "caption": "I dсотрудника",
+          "hidden": false,
+          "index": 4
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Организация",
+  "name": "IISUpravlyayushhaya_kompaniyaОрганизацияE",
+  "className": "ОрганизацияE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-организация",
+      "modelProjection": "ОрганизацияE"
+    }
+  ]
+}

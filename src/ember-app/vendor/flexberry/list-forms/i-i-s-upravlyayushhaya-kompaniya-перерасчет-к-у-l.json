@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-upravlyayushhaya-kompaniya-перерасчет-к-у-e",
+  "editForm": "i-i-s-upravlyayushhaya-kompaniya-перерасчет-к-у-e",
+  "external": false,
+  "caption": "Перерасчет КУ",
+  "name": "IISUpravlyayushhaya_kompaniyaПерерасчетКУL",
+  "className": "ПерерасчетКУL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-перерасчет-к-у",
+      "modelProjection": "ПерерасчетКУL"
+    }
+  ]
+}

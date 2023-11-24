@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISUpravlyayushhaya_kompaniyaСотрудникиE",
+  "className": "СотрудникиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-сотрудники",
+      "modelProjection": "СотрудникиE"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Комму услуги",
+  "name": "IISUpravlyayushhaya_kompaniyaКоммуУслугиE",
+  "className": "КоммуУслугиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-комму-услуги",
+      "modelProjection": "КоммуУслугиE"
+    }
+  ]
+}

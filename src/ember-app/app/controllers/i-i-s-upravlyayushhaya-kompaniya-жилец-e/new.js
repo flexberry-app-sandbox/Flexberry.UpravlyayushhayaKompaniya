@@ -1,0 +1,4 @@
+import IISUpravlyayushhaya_kompaniyaЖилецEController from '../i-i-s-upravlyayushhaya-kompaniya-жилец-e';
+
+var IISUpravlyayushhaya_kompaniyaЖилецENewController = IISUpravlyayushhaya_kompaniyaЖилецEController;
+export default IISUpravlyayushhaya_kompaniyaЖилецENewController;

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-upravlyayushhaya-kompaniya-должности-e",
+  "editForm": "i-i-s-upravlyayushhaya-kompaniya-должности-e",
+  "external": false,
+  "caption": "Должности",
+  "name": "IISUpravlyayushhaya_kompaniyaДолжностиL",
+  "className": "ДолжностиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-должности",
+      "modelProjection": "ДолжностиL"
+    }
+  ]
+}

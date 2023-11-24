@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "Upravlyayushhaya_kompaniya",
+  "applicationTitle": "Upravlyayushhaya_kompaniya",
+  "items": [
+    {
+      "link": null,
+      "menuName": "upravlyayushhaya-kompaniya",
+      "caption": "Upravlyayushhaya_kompaniya",
+      "title": "Upravlyayushhaya_kompaniya",
+      "children": [
+        {
+          "link": "i-i-s-upravlyayushhaya-kompaniya-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-upravlyayushhaya-kompaniya-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-upravlyayushhaya-kompaniya-перерасчет-к-у-l",
+          "menuName": null,
+          "caption": "Перерасчет КУ",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-upravlyayushhaya-kompaniya-квитанция-l",
+          "menuName": null,
+          "caption": "Квитанция",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-upravlyayushhaya-kompaniya-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-upravlyayushhaya-kompaniya-жилец-l",
+          "menuName": null,
+          "caption": "Жилец",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-upravlyayushhaya-kompaniya-база-данных-л-с-l",
+          "menuName": null,
+          "caption": "База данных ЛС",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-upravlyayushhaya-kompaniya-комму-услуги-l",
+          "menuName": null,
+          "caption": "Комму услуги",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

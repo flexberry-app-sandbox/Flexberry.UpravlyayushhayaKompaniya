@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Квитанция",
+  "name": "IISUpravlyayushhaya_kompaniyaКвитанцияE",
+  "className": "КвитанцияE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-квитанция",
+      "modelProjection": "КвитанцияE"
+    }
+  ]
+}

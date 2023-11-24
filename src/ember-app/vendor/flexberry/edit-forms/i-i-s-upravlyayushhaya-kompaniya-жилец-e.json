@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Жилец",
+  "name": "IISUpravlyayushhaya_kompaniyaЖилецE",
+  "className": "ЖилецE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-жилец",
+      "modelProjection": "ЖилецE"
+    }
+  ]
+}

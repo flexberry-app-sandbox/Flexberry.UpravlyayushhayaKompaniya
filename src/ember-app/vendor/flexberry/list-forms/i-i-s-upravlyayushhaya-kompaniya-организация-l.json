@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-upravlyayushhaya-kompaniya-организация-e",
+  "editForm": "i-i-s-upravlyayushhaya-kompaniya-организация-e",
+  "external": false,
+  "caption": "Организация",
+  "name": "IISUpravlyayushhaya_kompaniyaОрганизацияL",
+  "className": "ОрганизацияL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-организация",
+      "modelProjection": "ОрганизацияL"
+    }
+  ]
+}

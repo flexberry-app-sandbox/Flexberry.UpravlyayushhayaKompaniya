@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Перерасчет КУ",
+  "name": "IISUpravlyayushhaya_kompaniyaПерерасчетКУE",
+  "className": "ПерерасчетКУE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-перерасчет-к-у",
+      "modelProjection": "ПерерасчетКУE"
+    }
+  ]
+}

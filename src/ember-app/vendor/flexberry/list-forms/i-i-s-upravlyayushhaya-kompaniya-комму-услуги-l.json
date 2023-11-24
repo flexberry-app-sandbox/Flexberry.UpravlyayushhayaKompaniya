@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-upravlyayushhaya-kompaniya-комму-услуги-e",
+  "editForm": "i-i-s-upravlyayushhaya-kompaniya-комму-услуги-e",
+  "external": false,
+  "caption": "Комму услуги",
+  "name": "IISUpravlyayushhaya_kompaniyaКоммуУслугиL",
+  "className": "КоммуУслугиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-комму-услуги",
+      "modelProjection": "КоммуУслугиL"
+    }
+  ]
+}

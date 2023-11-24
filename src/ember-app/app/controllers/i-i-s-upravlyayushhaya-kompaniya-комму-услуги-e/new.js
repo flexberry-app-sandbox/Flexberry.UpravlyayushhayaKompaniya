@@ -1,0 +1,4 @@
+import IISUpravlyayushhaya_kompaniyaКоммуУслугиEController from '../i-i-s-upravlyayushhaya-kompaniya-комму-услуги-e';
+
+var IISUpravlyayushhaya_kompaniyaКоммуУслугиENewController = IISUpravlyayushhaya_kompaniyaКоммуУслугиEController;
+export default IISUpravlyayushhaya_kompaniyaКоммуУслугиENewController;

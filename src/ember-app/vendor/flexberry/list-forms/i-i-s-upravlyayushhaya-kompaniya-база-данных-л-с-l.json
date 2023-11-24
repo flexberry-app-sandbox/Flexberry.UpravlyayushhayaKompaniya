@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-upravlyayushhaya-kompaniya-база-данных-л-с-e",
+  "editForm": "i-i-s-upravlyayushhaya-kompaniya-база-данных-л-с-e",
+  "external": false,
+  "caption": "База данных ЛС",
+  "name": "IISUpravlyayushhaya_kompaniyaБазаДанныхЛСL",
+  "className": "БазаДанныхЛСL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-база-данных-л-с",
+      "modelProjection": "БазаДанныхЛСL"
+    }
+  ]
+}

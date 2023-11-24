@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-upravlyayushhaya-kompaniya-сотрудники-e",
+  "editForm": "i-i-s-upravlyayushhaya-kompaniya-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISUpravlyayushhaya_kompaniyaСотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}

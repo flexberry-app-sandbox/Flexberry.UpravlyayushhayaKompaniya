@@ -1,0 +1,4 @@
+import IISUpravlyayushhaya_kompaniyaСотрудникиEController from '../i-i-s-upravlyayushhaya-kompaniya-сотрудники-e';
+
+var IISUpravlyayushhaya_kompaniyaСотрудникиENewController = IISUpravlyayushhaya_kompaniyaСотрудникиEController;
+export default IISUpravlyayushhaya_kompaniyaСотрудникиENewController;

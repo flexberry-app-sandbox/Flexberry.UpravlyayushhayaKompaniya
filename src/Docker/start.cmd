@@ -1,0 +1,1 @@
+docker-compose -p upravlyayushhaya_kompaniya up -d

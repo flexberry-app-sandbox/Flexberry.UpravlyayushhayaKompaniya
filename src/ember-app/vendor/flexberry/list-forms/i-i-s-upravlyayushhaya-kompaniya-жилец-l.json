@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-upravlyayushhaya-kompaniya-жилец-e",
+  "editForm": "i-i-s-upravlyayushhaya-kompaniya-жилец-e",
+  "external": false,
+  "caption": "Жилец",
+  "name": "IISUpravlyayushhaya_kompaniyaЖилецL",
+  "className": "ЖилецL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-upravlyayushhaya-kompaniya-жилец",
+      "modelProjection": "ЖилецL"
+    }
+  ]
+}
